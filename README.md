@@ -1,2 +1,2 @@
-# SamplePro
-Sample project for trigger
+# reddit-youtube
+Codebase to authenticate r/PartneredYoutube on Reddit. 
